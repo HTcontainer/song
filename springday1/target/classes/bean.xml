@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+    <!--bean: accountDao 和 实现类的关系-->
+    <bean id="accountDao" class="i.impl.AccountDaoImpl"/>
+
+</beans>
